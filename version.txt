@@ -1,0 +1,7 @@
+version: 1.0.0
+release_date: 2024-10-14
+build_number: 90011
+
+**Release Notes:**
+- Here we come!
+- Make sure to be updated everyday, everyday? everyday.
